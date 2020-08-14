@@ -1,1 +1,2 @@
 git branch dev, git push origin master
+git branch dev, git push origin dev
